@@ -1,5 +1,5 @@
 # Easy Phalcon
-Easiest way to setup an environment for Phalcon Framework.
+The easiest way to setup a development environment for Phalcon Framework.
 
 ## Who should use?
 This project is destinated for developers. Deploy for production maybe need more features, like load balancer, compression, etc.
